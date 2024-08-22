@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://neconetal.github.io/sitemap.html.gz
+Sitemap: https://neconetal.github.io/app/sitemap.html.gz
+Sitemap: https://neconetal.github.io/assets/sitemap.html.gz
+Sitemap: https://neconetal.github.io/css/sitemap.html.gz
+Sitemap: https://neconetal.github.io/includes/sitemap.html.gz
+Sitemap: https://neconetal.github.io/item/sitemap.html.gz
+Sitemap: https://neconetal.github.io/src/sitemap.html.gz
